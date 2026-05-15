@@ -5,7 +5,7 @@
 <h1 align="center">TexAPI</h1>
 
 <p align="center">
-  <strong>One API key. All AI models. Up to 50% cheaper.</strong>
+  <strong>One API key. All AI models. Save 15–72% vs official pricing.</strong>
 </p>
 
 <p align="center">
@@ -16,7 +16,7 @@
 <p align="center">
   <a href="https://texapi.dev"><img src="https://img.shields.io/badge/Website-texapi.dev-0969da?style=flat-square" alt="Website" /></a>
   <a href="https://discord.gg/texapi"><img src="https://img.shields.io/badge/Discord-Join-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="#pricing"><img src="https://img.shields.io/badge/Savings-Up%20to%2050%25-16a34a?style=flat-square" alt="Savings" /></a>
+  <a href="#pricing"><img src="https://img.shields.io/badge/Savings-15%25%20to%2072%25-16a34a?style=flat-square" alt="Savings" /></a>
   <a href="./README.vi.md"><img src="https://img.shields.io/badge/lang-Tiếng%20Việt-red?style=flat-square" alt="Vietnamese" /></a>
 </p>
 
@@ -107,22 +107,22 @@ client = OpenAI(
 
 ### 💎 Paid Models
 
-| Model | Family | Input | Output | Savings |
-|-------|--------|-------|--------|---------|
-| `claude-opus-4-7` | Claude | 203.7 | 1018.5 | **~15% off** |
-| `claude-sonnet-4-6` | Claude | 122.2 | 611.1 | **~15% off** |
-| `claude-sonnet-4-5` | Claude | 122.2 | 611.1 | **~15% off** |
-| `claude-haiku-4-5` | Claude | 40.7 | 203.7 | **~15% off** |
-| `gpt-5.5` | GPT | 119.9 | 719.2 | **~50% off** |
-| `gpt-5.4` | GPT | 59.9 | 359.6 | **~50% off** |
-| `gpt-5.4-mini` | GPT | 18.0 | 107.9 | **~50% off** |
-| `gpt-5-codex` | GPT | 30.0 | 239.7 | **~50% off** |
-| `gemini-3.1-pro-preview` | Gemini | 86.3 | 518.0 | **~40% off** |
-| `gemini-2.5-pro` | Gemini | 36.0 | 287.7 | **~40% off** |
-| `o4-mini` | GPT | 26.4 | 105.5 | **~50% off** |
-| `gpt-image-2` | Image | — | — | per-image |
+| Model | Family | Input ($/1M) | Output ($/1M) | Official | Savings |
+|-------|--------|:------------:|:-------------:|:--------:|:-------:|
+| `claude-opus-4-7` | Claude | $4.25 | $21.25 | $15 / $75 | **72% off** |
+| `claude-sonnet-4-6` | Claude | $2.55 | $12.75 | $3 / $15 | **15% off** |
+| `claude-sonnet-4-5` | Claude | $2.55 | $12.75 | $3 / $15 | **15% off** |
+| `claude-haiku-4-5` | Claude | $0.85 | $4.25 | $1 / $5 | **15% off** |
+| `gpt-5.5` | GPT | $2.50 | $15.00 | $5 / $30 | **50% off** |
+| `gpt-5.4` | GPT | $1.25 | $7.50 | $2.5 / $10 | **50% off** |
+| `gpt-5.4-mini` | GPT | $0.38 | $2.25 | $0.6 / $2.4 | **~35% off** |
+| `gpt-5-codex` | GPT | $0.63 | $5.00 | $2.5 / $10 | **50% off** |
+| `gemini-3.1-pro-preview` | Gemini | $1.80 | $10.80 | $3.5 / $10.5 | **~40% off** |
+| `gemini-2.5-pro` | Gemini | $0.75 | $6.00 | $1.25 / $10 | **40% off** |
+| `o4-mini` | GPT | $0.55 | $2.20 | $1.1 / $4.4 | **50% off** |
+| `gpt-image-2` | Image | — | — | — | per-image |
 
-<sub>Pricing in credits per 1M tokens. 1 credit = 550₫ (~$0.022 USD). Full list at <a href="https://texapi.dev/api/models">texapi.dev/api/models</a></sub>
+<sub>Prices in USD per 1M tokens. Full model list at <a href="https://texapi.dev/api/models">texapi.dev/api/models</a></sub>
 
 ### 🆓 Free Models
 
