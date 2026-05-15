@@ -37,7 +37,10 @@
 
 | Model | Cost | Daily Limit |
 |-------|------|-------------|
-| gpt-oss-120b | **$0.00** | 10-1000 req/day (plan-based) |
+| gpt-oss-120b | $0.00 | 100–10,000 req/day (plan-based) |
+| minimax-m2.5-free | $0.00 | 100–10,000 req/day (plan-based) |
+| nemotron-3-super-free | $0.00 | 100–10,000 req/day (plan-based) |
+| big-pickle | $0.00 | 100–10,000 req/day (plan-based) |
 
 ---
 
