@@ -215,17 +215,17 @@ Subscription plans available for higher rate limits (60–3,000 RPM) and monthly
 
 ## Features
 
-**Smart routing** — Multiple upstream providers with priority-based fallback. If one is down, your request goes to the next.
+🔀 **Smart routing** — Multiple upstream providers with priority-based fallback. If one is down, your request goes to the next.
 
-**Spending controls** — Daily cap (500 credits/day default), per-key monthly limits, real-time balance tracking.
+💰 **Spending controls** — Daily cap (500 credits/day default), per-key monthly limits, real-time balance tracking.
 
-**Multi-format** — Send OpenAI format or Anthropic format. TexAPI translates automatically.
+🔄 **Multi-format** — Send OpenAI format or Anthropic format. TexAPI translates automatically.
 
-**Analytics** — Per-model, per-key usage tracking. Latency, costs, error rates in your dashboard.
+📊 **Analytics** — Per-model, per-key usage tracking. Latency, costs, error rates in your dashboard.
 
-**Security** — API keys hashed (HMAC-SHA256), upstream credentials encrypted (AES-256-GCM), no request content stored.
+🔒 **Security** — API keys hashed (HMAC-SHA256), upstream credentials encrypted (AES-256-GCM), no request content stored.
 
-**Referral program** — 5% commission on every top-up from users you invite.
+🤝 **Referral program** — 5% commission on every top-up from users you invite.
 
 ---
 
@@ -255,9 +255,9 @@ Top-up credits never expire. Subscription credits expire at end of billing perio
 
 ## Links
 
-- Website: [texapi.dev](https://texapi.dev)
-- API docs: [docs/api-reference.md](./docs/api-reference.md)
-- Discord: [discord.gg/texapi](https://discord.gg/texapi)
+- 🌐 Website: [texapi.dev](https://texapi.dev)
+- 📖 API docs: [docs/api-reference.md](./docs/api-reference.md)
+- 💬 Discord: [discord.gg/texapi](https://discord.gg/texapi)
 
 ---
 
