@@ -110,8 +110,8 @@ client = OpenAI(
 | Model | Family | Input ($/1M) | Output ($/1M) | Official | Savings |
 |-------|--------|:------------:|:-------------:|:--------:|:-------:|
 | `claude-opus-4-7` | Claude | $4.25 | $21.25 | $5 / $25 | **15% off** |
+| `claude-opus-4-6` | Claude | $4.25 | $21.25 | $5 / $25 | **15% off** |
 | `claude-sonnet-4-6` | Claude | $2.55 | $12.75 | $3 / $15 | **15% off** |
-| `claude-sonnet-4-5` | Claude | $2.55 | $12.75 | $3 / $15 | **15% off** |
 | `claude-haiku-4-5` | Claude | $0.85 | $4.25 | $1 / $5 | **15% off** |
 | `gpt-5.5` | GPT | $2.50 | $15.00 | $5 / $30 | **50% off** |
 | `gpt-5.4` | GPT | $1.25 | $7.50 | $2.50 / $15 | **50% off** |
@@ -119,7 +119,7 @@ client = OpenAI(
 | `gpt-5-codex` | GPT | $0.63 | $5.00 | $1.25 / $10 | **50% off** |
 | `o4-mini` | GPT | $0.55 | $2.20 | $1.10 / $4.40 | **50% off** |
 | `gemini-2.5-pro` | Gemini | $0.75 | $6.00 | $1.25 / $10 | **40% off** |
-| `gpt-image-2` | Image | — | — | — | per-image |
+| `gpt-image-2` | Image | ~$0.012 / image | | ~$0.02–$0.19 / image | **~40% off** |
 
 <sub>Prices in USD per 1M tokens. Official prices sourced from <a href="https://openai.com/api/pricing/">OpenAI</a>, <a href="https://docs.anthropic.com/en/docs/about-claude/pricing">Anthropic</a>, <a href="https://ai.google.dev/gemini-api/docs/pricing">Google</a>. Full model list at <a href="https://texapi.dev/api/models">texapi.dev/api/models</a></sub>
 
