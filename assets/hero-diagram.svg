@@ -45,5 +45,5 @@
   
   <!-- Savings badge -->
   <rect x="710" y="80" width="80" height="36" rx="18" fill="url(#grad2)"/>
-  <text x="750" y="103" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700">-70%</text>
+  <text x="750" y="103" text-anchor="middle" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700">-50%</text>
 </svg>
